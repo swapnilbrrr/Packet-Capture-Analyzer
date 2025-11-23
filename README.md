@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/swapnilbrrr/Packet-Capture-Analyzer?style=social)](https://github.com/swapnilbrrr/Packet-Capture-Analyzer/stargazers)
+
+
 # Packet Capture Analyzer
 
 ## Overview
