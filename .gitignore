@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
+report.json
+
+# Pcap / capture files
+*.pcap
+*.pcapng
+
+# IDE files
+.vscode/
+.idea/
